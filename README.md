@@ -16,6 +16,7 @@
   - [Upload Code](#6-upload-code)
   - [Follow Instructions](#7-follow-instructions)
 - [Running the Code](#running-the-code)
+- [Watch the video](#watch-the-project-in-action)
 
 ## Introduction
 
@@ -109,6 +110,7 @@ Click the "Run" button in the MU Editor to upload the code to your Raspberry Pi 
 
 Once the code is uploaded, follow the on-screen instructions to start using the program.
 
+
 ## Running the Code
 
 To run the code on your Raspberry Pi Pico, ensure you have completed the setup steps mentioned above and uploaded the correct model file (svm_min.py, logistic_regression_min.py, or decision_tree_min.py) based on your chosen machine learning model. The program will make use of the selected model for image recognition tasks.
@@ -116,4 +118,9 @@ To run the code on your Raspberry Pi Pico, ensure you have completed the setup s
 For training or modifying machine learning models, refer to the provided training model files (Trained Model.ipynb, model_training.ipynb) and use Google Colab for training purposes.
 
 Enjoy working on your Raspberry Pi Pico camera project!
+## Watch the Project in Action
+
+[![Watch the Video](https://img.youtube.com/vi/ABC123/0.jpg)](https://www.youtube.com/watch?v=ABC123)
+
+Click the image above to watch the project demonstration on YouTube.
 

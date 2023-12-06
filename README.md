@@ -70,6 +70,28 @@ The below table shows connections for the LCD
 | 9                   | SCL              | GP10         |
 | 15                  | LED              | 3.3V         |
 
+## OV7670 Camera Module Connections
+
+| OV7670 Pin name | Pi Pico Pin Name                      |
+| --------------- | ------------------------------------- |
+| D0              | GP0                                   |
+| D1              | GP1                                   |
+| D2              | GP2                                   |
+| D3              | GP3                                   |
+| D4              | GP4                                   |
+| D5              | GP5                                   |
+| D6              | GP6                                   |
+| D7              | GP7                                   |
+| PCLK            | GP8                                   |
+| MCLK            | GP9                                   |
+| HS              | GP12                                  |
+| VS              | GP13                                  |
+| PDWN            | GP15                                  |
+| RESET           | GP14                                  |
+| SCL             | GP21 (via 4.7k external pull up resistor) |
+| SDA             | GP20 (via 4.7k external pull up resistor) |
+
+
 
 ### 4. Open MU Editor
 

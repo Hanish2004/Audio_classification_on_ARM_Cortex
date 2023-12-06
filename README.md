@@ -1,4 +1,4 @@
-# Raspberry Pi Pico Camera Project
+# Image Classification on ARM-Cortex m4 Microcontroller
 
 ![Project Image](image.jpg)
 

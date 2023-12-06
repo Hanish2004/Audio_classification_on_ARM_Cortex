@@ -120,7 +120,7 @@ For training or modifying machine learning models, refer to the provided trainin
 Enjoy working on your Raspberry Pi Pico camera project!
 ## Watch the Project in Action
 
-[![Watch the Video](https://img.youtube.com/vi/ABC123/0.jpg)](https://www.youtube.com/watch?v=ABC123)
+[![Watch the Video](https://img.youtube.com/vi/ABC123/0.jpg)]([https://www.youtube.com/watch?v=ABC123](https://youtu.be/o-dF4F6LWLY))
 
 Click the image above to watch the project demonstration on YouTube.
 

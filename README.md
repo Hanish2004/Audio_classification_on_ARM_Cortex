@@ -57,7 +57,7 @@ Download the necessary files to your computer:
 
 - Connect your Raspberry Pi Pico to your computer using the B-Type USB cable.
 - Set up the hardware components as per the project requirements, including the TFT LCD and OV7670 Camera Module, on the breadboard.
-- Pin Configuration
+-## Pin Configuration
 The below table shows connections for the LCD
 | Display Pin Number | Display Pin Name | Pi Pico Pins |
 | ------------------- | ---------------- | ------------ |

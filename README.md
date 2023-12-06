@@ -1,6 +1,6 @@
 # Raspberry Pi Pico Camera Project
 
-![Project Image](project_image.jpg)
+![Project Image]([project_image.jpg](https://github.com/Hanish2004/image-classification-on-ARM-cortex-m4-microcontroller/blob/main/image.jpg))
 
 ## Table of Contents
 
